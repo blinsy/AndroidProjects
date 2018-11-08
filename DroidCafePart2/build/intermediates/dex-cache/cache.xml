@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_efe4c3082923baea78aed9f750f46458dd8a61a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_ae48cb6ae1e456a21a2d31b82cd545d256769939.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_31963b926b48e0061d8cd42d3f26b5d4811d9167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_51637393a215cec75f0ba0425e291c989cf53bbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_029a6b687c8cf1662697cb35f14e2c7486772242.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_b509c857a68d9dfdbf0615ede1f861037a5d050e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_0774c80cc8a26f3672d35aa1eb4c013852bb6769.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_ce03d05972e68e4f854658c2c492e1be3b3a4cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_76aea81e12a92282b04bfbce08b526b31d955c41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_527cdb6d4580e9adb5fc1d695a35d78baa0868fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_d5d7f4049f4086d0d24a3fc79f307e76c634daf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_bca49d61b5fa8d1b43064f9ef8f14b5f785065f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_58434aadcb4ab6dce843d0525f08a91843ab6e34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_db90a46562efa52010086bfef9a8c6d340627035.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_b1480a7262c679c5abc20398f6e1ef7e9a3790c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_2f46c6f942043087281e69b127c9defa52b93aa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_06ec3d60a52b51cc8e5ab9d97b74a108b90c738c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/maureen/AndroidStudioProjects/DroidCafePart2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_c26c2b72b261c67c1a42f1c18cb329e7b215215e.jar" />
+    </item>
+
+</items>

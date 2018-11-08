@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_3dc458fa6ea94e54f9eebfe874e245f4b6fe5684.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_ff595d6c73e256f5a2beb35249285d6e2f255e3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_4f523208e5cbc31a327f881e5cbd1028a5706b96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_6d46471d12e84353682b044cf6d9d654da8477e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_09b5aebc6e5f7842846ea10a1dccfabfb10b1b4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_fcaf217c1d6bcb56ca25c8d95ebf5d7e39129b2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_0f12a058b3f1859435855a50b77fe61b9daed56e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_8568f950386c6f06fbd5a580c1eac29014365a2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_ee0577b40fb8e241dde49c3d869dd8643204196c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_b1480a7262c679c5abc20398f6e1ef7e9a3790c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_b54f770d0cc2e23c9e890e31634835d3f52d2c4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_53a9e0194ceedcbd33dcafd7e3154cbd3965d68a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_abe3b892721c424254d64f4b0129d4f109a41140.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_8eb97279fb81fc4a864c0c4a1ec833ee0912b761.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/maureen/Desktop/android-fundamentals/ScrollingText3/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_22f5febfad37970838790b5d880449e4acf9009b.jar" />
+    </item>
+
+</items>
